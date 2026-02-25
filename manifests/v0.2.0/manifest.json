@@ -1,5 +1,10 @@
 {
-  "action": "update",
-  "target": "UpdaterApp.exe",
-  "file_url": "https://github.com/Youssef-ElMedany/updater-tool/releases/download/v0.2.0/UpdaterApp.exe"
+  "version": "0.2.0",
+  "changes": [
+    {
+      "action": "update",
+      "target": "UpdaterApp.exe",
+      "file_url": "https://github.com/Youssef-ElMedany/updater-tool/releases/download/v0.2.0/UpdaterApp.exe"
+    }
+  ]
 }
