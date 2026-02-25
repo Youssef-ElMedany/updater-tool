@@ -1,0 +1,9 @@
+{
+  "changes": [
+    {
+      "action": "add",
+      "target": "examples/test-file.txt",
+      "file_url": "https://raw.githubusercontent.com/Youssef-ElMedany/updater-tool/main/files/test-file.txt"
+    }
+  ]
+}
