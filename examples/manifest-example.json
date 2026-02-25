@@ -1,19 +1,11 @@
 {
-  "changes": [
-    {
-      "action": "add",
-      "target": "examples/test-file.txt",
-      "file_url": "https://raw.githubusercontent.com/Youssef-ElMedany/updater-tool/main/files/test-file.txt"
-    }
-  ]
-}
-{
+  "version": "0.2.0",
   "changes": [
     {
       "action": "update",
       "target": "UpdaterApp.exe",
-      "file_url": "https://raw.githubusercontent.com/Youssef-ElMedany/updater-tool/main/packages/UpdaterApp-v0.2/UpdaterApp.exe",
-      "hash": "sha256hex_of_the_new_updater_if_you_want_verification"
+      "file_url": "https://github.com/Youssef-ElMedany/updater-tool/releases/download/v0.2.0/UpdaterApp.exe",
+      "hash": "PUT_SHA256_HASH_HERE"
     }
   ]
 }
