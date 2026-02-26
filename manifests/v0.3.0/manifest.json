@@ -4,8 +4,8 @@
     
     {
       "action": "update",
-      "target": "UpdaterApp.exe",
-      "file_url": "https://github.com/Youssef-ElMedany/updater-tool/releases/download/v0.3.0/UpdaterApp.exe"
+      "target": "Dr Youssef Elmedany.exe",
+      "file_url": "https://github.com/Youssef-ElMedany/updater-tool/releases/download/v0.3.0/Dr.Youssef.Elmedany.exe"
     }
 
   ]
