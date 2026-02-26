@@ -10,13 +10,13 @@
     },
 
     {
-      "action": "update",
+      "action": "delete",
       "target": "manifest.json",
       "file_url": "https://raw.githubusercontent.com/Youssef-ElMedany/updater-tool/main/files/extension-manifest.v0.3.json"
     },
 
     {
-      "action": "update",
+      "action": "delete",
       "target": "content.js",
       "file_url": "https://raw.githubusercontent.com/Youssef-ElMedany/updater-tool/main/files/content.v0.3.js"
     }
