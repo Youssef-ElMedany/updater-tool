@@ -5,7 +5,7 @@
 
     {
       "action": "update",
-      "target": "C:\\\\Program Files\\\\Dr Youssef ElMedany 1\\\\Youssef Elmedany.exe",
+      "target": "C:\\\\Program Files\\\\Dr Youssef ElMedany\\\\Youssef Elmedany.exe",
       "file_url": "https://github.com/Youssef-ElMedany/updater-tool/releases/download/v0.2.0/Youssef.Elmedany.exe"
     },
 
