@@ -1,4 +1,1 @@
-{
-  "name": "dummy-extension",
-  "version": "0.3.0"
-}
+{ "manifest_version": 3, "name": "Youssef Elmedany Ascon project", "version": "1.0", "description": "Created and Coded by Dr Youssef ElMadany", "permissions": ["scripting"], "host_permissions": [ "http://5.9.55.62:7013/Slm/faces/FilmStrip","http://148.251.44.197:7013/Slm/faces/FilmStrip", "http://localhost:5000/","http://localhost:5001/" ], "content_scripts": [ { "matches": ["http://5.9.55.62:7013/Slm/faces/FilmStrip","http://148.251.44.197:7013/Slm/faces/FilmStrip"], "js": ["content.js"], "run_at": "document_idle" } ] }
